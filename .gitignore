@@ -1,0 +1,22 @@
+# Dataset: download it from Kaggle (see README); it is not redistributed here
+data/
+
+# Trained model: published as a GitHub release asset, too large for the repo
+models/*.keras
+models/*.h5
+
+# Archives
+*.zip
+
+# Python / environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Editor / OS
+.vscode/
+.idea/
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
