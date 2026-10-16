@@ -1,0 +1,3 @@
+# The notebook is the original exploration, kept for reference; count it as
+# documentation so GitHub reports the project's language from the Python code.
+*.ipynb linguist-documentation
